@@ -2,7 +2,7 @@ Hello, my name is Valdo Mpinga there 👋
 
 <!--
 **ValdoMpinga/ValdoMpinga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 <div align="center">
   <a href="https://github.com/ValdoMpinga">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ValdoMpinga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -30,4 +30,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
