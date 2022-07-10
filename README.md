@@ -45,7 +45,7 @@ In this section there is django framework in case you are using github in dark m
 <br/>     
           
           
-###Front-end technologies:
+### Front-end technologies:
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
 <br/>  
@@ -57,9 +57,7 @@ In this section there is django framework in case you are using github in dark m
 <br/>  
           
 ### Database managment systems:
-          
-<br/>  
-          
+                   
 #### SQL
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
 <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-plain.svg">
@@ -75,6 +73,7 @@ In this section there is django framework in case you are using github in dark m
           
 <br/>  
           
+# Contact me!
 <div>
   <a href="https://www.linkedin.com/in/valdo-mpinga-it-developer/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:valdompinga57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
