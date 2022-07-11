@@ -79,18 +79,10 @@ In this section there is django framework in case you are using github in dark m
   <a href="mailto:valdompinga57@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> 
 </div>
 
-  
-  <!--
-![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-Here are some ideas to get you started:
+ 
+## Contributions
+ 
+![snake gif](https://github.com/ValdoMpinga/ValdoMpinga/blob/output/github-contribution-grid-snake.gif)
+ 
 
-- 🔭 I’m currently taking a bachelor degree in Computer Science and engineering
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
--->
